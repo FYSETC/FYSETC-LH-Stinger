@@ -13,11 +13,14 @@ https://github.com/lhndo/LH-Stinger
 
 [ LH-Stinger](https://github.com/FYSETC/FYSETC-LH-Stinger/blob/main/BOM.md)
 
-# STL
+# STL changes
 
-### FYSETC LH-Stinger STLs
+### FYSETC LH-Stinger STLs changes
 
-Check it [here](https://github.com/FYSETC/FYSETC-LH-Stinger/tree/main/STLs).
+Mount Spider H7 Check it [here](https://github.com/FYSETC/FYSETC-LH-Stinger/tree/main/STLs/Mount%20Spider%20H7).
+
+Panel Bottom for LM200-22B48R2 Power Supply Check it [here](https://github.com/FYSETC/FYSETC-LH-Stinger/tree/main/STLs/Panel%20Bottom%20for%20LM200-22B48R2%20Power%20Supply).
+
 
 # Wiring
 
