@@ -35,7 +35,7 @@ MakerMylo Assembly manual [here](https://help.mylo.fun/makermylo-documents/fyset
 
 Check it [here](https://github.com/FYSETC/FYSETC-LH-Stinger/tree/main/Klipper_Config).
 
-# FAQ
+# Videos
 
 ### Original LH-Stinger Videos [here](https://www.youtube.com/channel/UCPD2Ai4b49gVoCFSGFWoSdw).
 
