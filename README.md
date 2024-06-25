@@ -9,7 +9,7 @@ This is a project from lhndo community,LH-Stinger . We made a little upgrade and
 
 https://github.com/lhndo/LH-Stinger
 
-2.LH-Stinger FYSETC Wiki：
+2.LH-Stinger FYSETC Kit Wiki：
 https://github.com/lhndo/LH-Stinger/wiki/FYSETC-Kit#issues
 
 # BOM
