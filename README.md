@@ -9,6 +9,9 @@ This is a project from lhndo community,LH-Stinger . We made a little upgrade and
 
 https://github.com/lhndo/LH-Stinger
 
+2.LH-Stinger FYSETC Wiki：
+https://github.com/lhndo/LH-Stinger/wiki/FYSETC-Kit#issues
+
 # BOM
 
 [ LH-Stinger](https://github.com/FYSETC/FYSETC-LH-Stinger/blob/main/BOM.md)
@@ -16,10 +19,24 @@ https://github.com/lhndo/LH-Stinger
 # STL changes
 
 ### FYSETC LH-Stinger STLs changes
+The following parts are required to match the component configuration of the FYSETC kit:
 
-Mount Spider H7 Check it [here](https://github.com/FYSETC/FYSETC-LH-Stinger/tree/main/STLs/Mount%20Spider%20H7).
+Toolhead:
+[Toolhead Dragon UHF + Sherpa Mini](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/Toolhead/Toolhead%20Dragon%20UHF%20%2B%20Sherpa%20%20Mini%20-%20%40LH)
 
-Panel Bottom for LM200-22B48R2 Power Supply Check it [here](https://github.com/FYSETC/FYSETC-LH-Stinger/tree/main/STLs/Panel%20Bottom%20for%20LM200-22B48R2%20Power%20Supply).
+Aux Fan:
+[Flap UHF x2](https://github.com/lhndo/LH-Stinger/blob/main/STL/Printer/Aux%20Fan/Flap%20UHF%20x2.stl)
+Included in [STL/Aux Fan Parts.3mf ](https://github.com/lhndo/LH-Stinger/tree/main/STL)(Plate: Optional UHF )
+
+Ebox:
+[FYSETC Spider Mount](https://github.com/lhndo/LH-Stinger/tree/main/User_Mods/Ebox/FYSETC%20Spider%20V3%20Mount%20-%20%40MakerMylo)
+Panel Bottom for LM200-22B48R2 Power Supply Check it [here](https://github.com/FYSETC/FYSETC-LH-Stinger/tree/main/STLs/Panel%20Bottom%20for%20LM200-22B48R2%20Power%20Supply)
+
+LHS Breakbeat - Breakout Box:
+[Breakout Box](https://github.com/lhndo/LH-Stinger/tree/main/STL/Printer/Breakout%20Box)
+Included in [STL/Breakout Box Parts.3mf](https://github.com/lhndo/LH-Stinger/tree/main/STL)
+
+
 
 
 # Wiring
